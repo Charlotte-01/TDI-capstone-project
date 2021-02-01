@@ -37,18 +37,29 @@ Initial clean, detect and remove outliers with Z score, feature selection.
 The Visualization contains visual plots. 
 1. Average price Per Borough
 ![Average price Per Borough](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Average%20price%20Per%20Borough.png)
-As we can see from the plots, Mahanttan is the most expensive area and also has highest numbers of listings.
-
-Entire home/apt constitudes about 75-80% of listings type.
+As we can see from the plots, Mahanttan is the most expensive area
+2. Total listings Per Borough
+![Total listings Per Borough](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Total%20listings%20Per%20Borough_read.png)
+As we can see from the plots, Queens has highest numbers of listings.
+3. House Rules.png
+![House Rules](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/House%20Rules.png)
 Wordcloud plots give some key words regarding description, house rules that host can pay attention to while renting the place.
-
+4. Room Types Per Borough
+![Room Types Per Borough](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Room%20Types%20Per%20Borough.png)
+Entire home/apt constitudes about 75-80% of listings type.
 
 **Part3: Natural Language Processing**
+Coming soon...
 
 **Part4: Model**
+After running different algorithms including Linear Regression, K Means, Decision Tree, Multiple Regression, I finalize choosing Random Forest Model. Below are two output plots to visulize the result of my model:
+1.Predicted Results vs Actual Results - bar plot
+![](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Predicted%20Results%20vs%20Actual%20Results2.png)
 
-The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it.
-After running different algorithms including Linear Regression, K Means, Decision Tree, Multiple Regression, we finalize choosing Random Forest Model with highest accuracy (abt 85%) as our price model. 
+2.Predicted Results vs Actual Results - line plot
+![](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Predicted%20Results%20vs%20Actual%20Results1.png)
+
+### The accuracy rate: ~ 85% 
 
 **Part5: Web develop**
 
