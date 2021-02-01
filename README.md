@@ -10,7 +10,7 @@ The total price of a reservation on Airbnb is based on the nightly rate (based p
 
 The data used in this project is generated from “Inside Airbnb”, which uses data sourced from publicly available information from the Airbnb site. http://insideairbnb.com/get-the-data.html. The original raw datasets used in this project all stored in the data folder.
 
-Size: ~96MB for modeling
+Size: ~96MB
 
 Metrics: 106 metrics
 
