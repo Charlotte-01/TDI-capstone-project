@@ -1,5 +1,5 @@
-# **Airbnb Price Prediction - CIS 9650**
-Group Members: Hailin Du, Qianwen Qian, Yan Wang, Trang Le, Zibo Xu, Songchen Nan
+# **Airbnb Price Prediction **
+
 
 **Problem**
 
@@ -9,6 +9,10 @@ The total price of a reservation on Airbnb is based on the nightly rate (based p
 **Datasets**
 
 The data used in this project is generated from “Inside Airbnb”, which uses data sourced from publicly available information from the Airbnb site. http://insideairbnb.com/get-the-data.html. The original raw datasets used in this project all stored in the data folder.
+
+*Size: ~96MB for modeling 
+*Metrics: 106 metrics
+*Date: 2019 June, July, Auguest, September
 
 
 **Project purpose**
@@ -20,29 +24,28 @@ Data cleanning: pandas, numpy
 Data Exploratory analysis: matplotlib, seaborn, numpy, geopandas, nltk.sentiment.vader, SentimentIntensityAnalyzer, SelectKBest, WordCloud
 Data Model: sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
 
-**Slides**
 
-https://docs.google.com/presentation/d/1EB7khDeQNPwtVA8ea8zdbw9jjY2h-GT5/edit#slide=id.p1
+**Part1: Data preprocessing and Feature selection**
 
-**Data preprocessing**
+Initial clean, detect and remove outliers with Z score, feature selection. 
 
-The data preprocessing folder contains all the data processing codes. Initial clean, natural language processing, detect and remove outliers with Z score, feature selection. 
+**Part2: Visualization**
 
-**Visualization**
-
-The Visualization folder contains visual plots. 
+The Visualization contains visual plots. 
 As we can see from the plots, Mahanttan is the most expensive area and also has highest numbers of listings.
 Entire home/apt constitudes about 75-80% of listings type.
 Wordcloud plots give some key words regarding description, house rules that host can pay attention to while renting the place.
 
-**Model**
+**Part3: Natural Language Processing**
+
+**Part4: Model**
 
 The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it.
-After running different algorithms including Linear Regression, K Means, Decision Tree, Multiple Regression, we finalize choosing Random Forest Model with highest accuracy ( abt 85%) as our price model. 
+After running different algorithms including Linear Regression, K Means, Decision Tree, Multiple Regression, we finalize choosing Random Forest Model with highest accuracy (abt 85%) as our price model. 
 
-**Web develop**
+**Part5: Web develop**
 
-With the support of Prof, our group run inial Web develop as link http://aec4.com/cis9650/airbnb.py 
+Web develop link http://aec4.com/cis9650/airbnb.py 
 Hosts can use the link and input their available data. Output will be suggested price housing.
-The details code are inside the Web develop folder.
+
 
