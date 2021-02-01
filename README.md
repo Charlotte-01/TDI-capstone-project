@@ -35,9 +35,13 @@ Initial clean, detect and remove outliers with Z score, feature selection.
 **Part2: Visualization**
 
 The Visualization contains visual plots. 
+1. Average price Per Borough
+![](Average price Per Borough.png)
 As we can see from the plots, Mahanttan is the most expensive area and also has highest numbers of listings.
+
 Entire home/apt constitudes about 75-80% of listings type.
 Wordcloud plots give some key words regarding description, house rules that host can pay attention to while renting the place.
+
 
 **Part3: Natural Language Processing**
 
