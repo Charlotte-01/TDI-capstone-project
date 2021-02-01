@@ -34,6 +34,7 @@ It is important for hosts to understand Airbnb pricing and value the place corre
 **Part1: Data preprocessing and Feature selection**
 
 Initial clean, detect and remove outliers with Z score, feature selection.
+
 ![Feature Importances](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Feature%20Importances.png)
 
 reviews_per_month is one of important feature in the data analysis, but it is not that important for the renter to predict the price.
