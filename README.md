@@ -37,15 +37,19 @@ Initial clean, detect and remove outliers with Z score, feature selection.
 The Visualization contains visual plots. 
 1. Average price Per Borough
 ![Average price Per Borough](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Average%20price%20Per%20Borough.png)
+
 As we can see from the plots, Mahanttan is the most expensive area
 2. Total listings Per Borough
 ![Total listings Per Borough](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Total%20listings%20Per%20Borough_read.png)
+
 As we can see from the plots, Queens has highest numbers of listings.
 3. House Rules.png
 ![House Rules](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/House%20Rules.png)
+
 Wordcloud plots give some key words regarding description, house rules that host can pay attention to while renting the place.
 4. Room Types Per Borough
 ![Room Types Per Borough](https://github.com/Charlotte-01/TDI-capstone-project/blob/main/Room%20Types%20Per%20Borough.png)
+
 Entire home/apt constitudes about 75-80% of listings type.
 
 **Part3: Natural Language Processing**
@@ -64,6 +68,7 @@ After running different algorithms including Linear Regression, K Means, Decisio
 **Part5: Web develop**
 
 Web develop link http://aec4.com/cis9650/airbnb.py 
+
 Hosts can use the link and input their available data. Output will be suggested price housing.
 
 
