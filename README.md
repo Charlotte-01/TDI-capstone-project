@@ -1,10 +1,12 @@
 # Airbnb Price Prediction 
 
 
-**Problem**
+**Overview**
 
-Airbnb is one of the largest online marketplaces for arranging or offering apartments, homestays and lodging. The number of bookings and listings are growing fast, there are over 6 million listings worldwide in 2019. New York is listed as one of the top 10 popular cities for booking experiences in the world.
-The total price of a reservation on Airbnb is based on the nightly rate (based price per night), which is sole set by the host, plus other fees such as service fees, cleaning fee, etc. 
+Airbnb is one of the largest online marketplaces for arranging or offering apartments, homestays and lodging. The number of bookings and listings are growing fast, there are over 6 million listings worldwide in 2019. New York is listed as one of the top 10 popular cities for booking experiences in the world. The total price of a reservation on Airbnb is based on the nightly rate (based price per night), which is sole set by the host, plus other fees such as service fees, cleaning fee, etc. 
+
+**Business Benefits**
+There are currently no free and accurate services which help hosts price their properties using a wide range of data points. This project aims to help hosts determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.
 
 **Datasets**
 
@@ -30,7 +32,8 @@ It is important for hosts to understand Airbnb pricing and value the place corre
 
 **Part1: Data preprocessing and Feature selection**
 
-Initial clean, detect and remove outliers with Z score, feature selection. 
+Initial clean, detect and remove outliers with Z score, feature selection.
+
 
 **Part2: Visualization**
 
