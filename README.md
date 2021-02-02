@@ -22,7 +22,7 @@ Date: 2019 June, July, Auguest, September
 
 **Python Libraries**
 
-###### Data cleanning: pandas, numpy
+###### Data Cleanning: pandas, numpy
 ###### Data Exploratory analysis: matplotlib, seaborn, numpy, geopandas, nltk.sentiment.vader, SentimentIntensityAnalyzer, SelectKBest, WordCloud
 ###### Data Model: sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
 
