@@ -27,7 +27,7 @@ Date: 2019 June, July, Auguest, September
 ###### Data Model: sklearn.model_selection(train_test_split),sklearn.feature_selection, pandas, sklearn.ensemble(RandomForestRegressor),sklearn.metrics(R^2), matplotlib.pyplot, seaborn, numpy
 
 
-**Part1: Data Preprocessing and Exploratory **
+**Part1: Data Preprocessing and Exploratory**
 
 Initial clean, detect and remove outliers with Z score, feature selection.
 
