@@ -7,7 +7,7 @@ Airbnb is one of the largest online marketplaces for arranging or offering apart
 
 **Business Benefits**
 
-There are currently no free and accurate services which help hosts price their properties using a wide range of data points. This project aims to help hosts determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.
+It is important for hosts to understand Airbnb pricing and value the place correctly. There are currently no free and accurate services which help hosts price their properties using a wide range of data points. This project aims to help hosts to determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.
 
 **Datasets**
 
@@ -19,10 +19,6 @@ Metrics: 106 metrics
 
 Date: 2019 June, July, Auguest, September
 
-
-**Project purpose**
-
-It is important for hosts to understand Airbnb pricing and value the place correctly. This project aims to help hosts to determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.
 
 **Python Libraries**
 
