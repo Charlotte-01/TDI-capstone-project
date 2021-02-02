@@ -11,7 +11,7 @@ There are currently no free and accurate services which help hosts price their p
 
 **Datasets**
 
-The data used in this project is generated from “Inside Airbnb”, which uses data sourced from publicly available information from the Airbnb site. http://insideairbnb.com/get-the-data.html. The original raw datasets used in this project all stored in the data folder.
+The data used in this project is generated from “Inside Airbnb”, which uses data sourced from publicly available information from the Airbnb site. http://insideairbnb.com/get-the-data.html. 
 
 Size: ~96MB
 
